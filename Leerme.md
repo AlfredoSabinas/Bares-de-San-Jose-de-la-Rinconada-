@@ -1,4 +1,4 @@
 🫤 Autoservicio 😵‍💫
 
-Café Pastelería Churros 
-Bebidas Pan Llevar 
+Café, Pastelería, Churros 
+Bebidas, Pan, Llevar etc.
