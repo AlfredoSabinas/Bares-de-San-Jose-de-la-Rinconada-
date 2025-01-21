@@ -1,12 +1,1 @@
-from graphics import *
-def main():
-win GraphWin ("My Window", 500, 500)
-win.setBackground (color_rgb(0, 0, 0))
-pt1 = Point(250, 250)
-pt2 Point(250, 350)
-In Line (pt1, pt2)
-In.setOutline (color_rgb(0, 255, 255))
-ln.draw(win)
-win.getMouse()
-win.close()
-main()
+En Altrigo, el compromiso con la satisfacción de los clientes parece ser una prioridad secundaria, lo que se traduce en un servicio que deja mucho que desear y en una experiencia frustrante en cada visita. Los trabajadores deberían ser e ir cambiando y no siempre los fijos del barrio qué solo vienen los amigos y su familiares.
